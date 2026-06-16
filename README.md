@@ -18,6 +18,8 @@ Python Mini Projects
 
 \- Quiz Game
 
+\- Network Devices Lab Manager
+
 \- Password Generator
 
 \- Contact Book
@@ -25,6 +27,7 @@ Python Mini Projects
 \- Expense Tracker
 
 \- Library Management System
+
 
 
 
