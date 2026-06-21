@@ -22,6 +22,8 @@ Python Mini Projects
 
 \- Password Generator
 
+\- Network Security Log Analyzer & Report Generator
+
 \- Contact Book
 
 \- Expense Tracker
